@@ -1,0 +1,27 @@
+{
+  "name": "parcel-optimizer-userscript",
+  "version": "0.0.1",
+  "description": "Parcel optimiser plugin for bundling userscripts with the userscript metadata header",
+  "main": "src/index.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damoclark/parcel-optimizer-userscript.git"
+  },
+  "keywords": [
+    "parcel",
+    "plugin",
+    "userscript"
+  ],
+  "author": "damo.clarky@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/damoclark/parcel-optimizer-userscript/issues"
+  },
+  "homepage": "https://github.com/damoclark/parcel-optimizer-userscript#readme"
+}
