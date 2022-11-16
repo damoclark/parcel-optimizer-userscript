@@ -62,3 +62,6 @@ templates/
 
 # Project Specific
 !tests/etc/*.ini
+
+# Ignore parcel cache
+.parcel-cache/

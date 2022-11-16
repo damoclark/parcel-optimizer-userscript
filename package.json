@@ -23,7 +23,7 @@
     "userscript"
   ],
   "author": "damo.clarky@gmail.com",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/damoclark/parcel-optimizer-userscript/issues"
   },
