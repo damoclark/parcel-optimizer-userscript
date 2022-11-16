@@ -1,6 +1,6 @@
 {
   "name": "@damoclarky/parcel-optimizer-userscript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parcel optimiser plugin for bundling userscripts with the userscript metadata header",
   "main": "lib/index.js",
   "source": "src/index.ts",
