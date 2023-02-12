@@ -6,7 +6,7 @@ Parcel plugin for userscript development - adds the metadata header to your .use
 ## Installation
 
 ```sh
-npm install -D parcel @damoclarky/parcel-optimizer-userscript
+npm install -D parcel @damoclark/parcel-optimizer-userscript
 ```
 
 In your package.json:
@@ -22,7 +22,7 @@ In your package.json:
     "build": "npx parcel build src/userscript.user.mjs"
   },
   "devDependencies": {
-    "@damoclarky/parcel-optimizer-userscript": "^0.0.1",
+    "@damoclark/parcel-optimizer-userscript": "^0.0.1",
     "parcel": "^2.7.0"
   }
 }
@@ -34,7 +34,7 @@ Then add the following config files:
 {
   "extends": "@parcel/config-default",
   "optimizers": {
-    "*.user.{mjs,js,ts}": ["...", "@damoclarky/parcel-optimizer-userscript"]
+    "*.user.{mjs,js,ts}": ["...", "@damoclark/parcel-optimizer-userscript"]
   }
 }
 ```
